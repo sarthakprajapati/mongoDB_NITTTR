@@ -106,7 +106,7 @@ class MongodbDatabase
 	/*🅳🅴🅻🅴🆃🅴 🅼🆄🅻🆃🅸🅿🅻🅴 🅳🅾🅲🆄🅼🅴🅽🆃*/
 /*	$deleteResult = $collection->deleteMany(['city'=>'ghaziabad']);
 	printf('Deleted Document %d',$deleteResult->getDeletedCount());*/
-
+// .
 }
 }
 ?>
